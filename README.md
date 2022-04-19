@@ -1,9 +1,10 @@
 [![Header](https://github.com/emuhich/emuhich/blob/main/asets/fire.gif)](https://t.me/emuhich)
-### Hi there <a href="https://t.me/emuhich"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-This is the place where I create my projects and open source code :wink:
+<h1 align="center">Hi 👋, I'm Egor Mukhametvafin</h1>
+<h3 align="center">This is the place where I create my projects and open source code 😉</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/emuhich/emuhich/main/asets/code.gif">
 
  - 👨‍🎓 &nbsp;Passed the training school from Yandex Python developer
- -  :computer:  I am developing telegram bots
+ - 💻 I am developing telegram bots
  - ⚡ &nbsp;Fun fact: I :heart: :pizza: and Computer Gaming (Steam: [Mukhich](https://steamcommunity.com/profiles/76561198376574931/))
 
 📕 &nbsp;**Projects I'm proud of**
