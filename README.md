@@ -3,9 +3,14 @@
 This is the place where I create my projects and open source code :wink:
 
  - 👨‍🎓 &nbsp;Passed the training school from Yandex Python developer
- -  :computer: I am developing telegram bots
+ -  :computer:  I am developing telegram bots
  - ⚡ &nbsp;Fun fact: I :heart: :pizza: and Computer Gaming (Steam: [Mukhich](https://steamcommunity.com/profiles/76561198376574931/))
 
+📕 &nbsp;**Projects I'm proud of**
+- [Crypto Telegram Bot](https://github.com/emuhich/CryptoBot)
+- [Social network written in Django framework](https://github.com/emuhich/hw05_final)
+- [A bot on selenium using the Dolphin Anty Detected API](https://github.com/emuhich/auto_reg_betere)
+- [Shop bot in telegram](https://github.com/emuhich/strokibot)
 
 <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
 
