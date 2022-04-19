@@ -1,7 +1,6 @@
 [![Header](https://github.com/emuhich/emuhich/blob/main/asets/fire.gif)](https://t.me/emuhich)
 <h1 align="center">Hi 👋, I'm Egor Mukhametvafin</h1>
 <h3 align="center">This is the place where I create my projects and open source code 😉</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/emuhich/emuhich/main/asets/code.gif">
 
  - 👨‍🎓 &nbsp;Passed the training school from Yandex Python developer
  - 💻 I am developing telegram bots
