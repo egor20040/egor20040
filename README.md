@@ -14,13 +14,14 @@
 
 <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
 
+![Python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=77cb98)
 ![HTML5](https://img.shields.io/badge/html5-090909?style=for-the-badge&logo=html5&logoColor=red)
 ![Postgres](https://img.shields.io/badge/postgres-090909?style=for-the-badge&logo=postgresql&logoColor=blue)
 ![JWT](https://img.shields.io/badge/JWT-090909?style=for-the-badge&logo=JSON%20web%20tokens)
 ![PyCharm](https://img.shields.io/badge/pycharm-090909?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Docker](https://img.shields.io/badge/docker-090909?style=for-the-badge&logo=docker&logoColor=blue)
-![Python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/selenium-090909?style=for-the-badge&logo=selenium&logoColor=green)
 
 🔗  Connect with me
 
